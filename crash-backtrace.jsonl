@@ -1,0 +1,21 @@
+{"kind":"exception-handler-installed"}
+{"kind":"exception-handler-installed"}
+{"kind":"exception-handler-installed"}
+{"kind":"exception-handler-installed"}
+{"kind":"exception-handler-installed"}
+{"kind":"exception-handler-installed"}
+{"kind":"exception-handler-installed"}
+{"kind":"exception-handler-installed"}
+{"kind":"exception-handler-installed"}
+{"kind":"exception-handler-installed"}
+{"kind":"exception","type":"access-violation","address":"0x32fa47e8","memory":{"operation":"read","address":"0x0"},"registers":{"eax":"0x1726ae20","ecx":"0x0","edx":"0x0","esi":"0xd5a7060","edi":"0xe17e600","ebp":"0x23a5fac8","esp":"0x23a5fa0c"},"cards_store":{"build":"retail-cl1217703-7d8","module_base":"0x32f40000","module_size":1921024,"fault_rva":"0x647e8","esi":"0xd5a7060"},"backtrace":["0x1726ae20","CardsDLLzf.dll+0x647e8","CardsDLLzf.dll+0x61afe","CardsDLLzf.dll+0x87e89","CardsDLLzf.dll+0x87d52","CardsDLLzf.dll+0xce9d3","CardsDLLzf.dll+0x53acc","CardsDLLzf.dll+0x53238","CardsDLLzf.dll+0x144990","CardsDLLzf.dll+0x6815f","CardsDLLzf.dll+0x689b2","CardsDLLzf.dll+0x694b2","fifa13.exe+0x23bbb8","fifa13.exe+0x268df5","fifa13.exe+0x2f803","fifa13.exe+0x34fe6","0x1726ae20","ntdll.dll+0x53409","fifa13.exe+0xc779","fifa13.exe+0x164c85e","fifa13.exe+0x164ca2f","fifa13.exe+0xd22039","CardsDLLzf.dll+0xdcf70","CardsDLLzf.dll+0xb714c","CardsDLLzf.dll+0x61aac","CardsDLLzf.dll+0x61afe","CardsDLLzf.dll+0x87e89","CardsDLLzf.dll+0x87d52"],"debug_tail":["SetEvent(FsmEvents eventid) 1","PluginSingleLoaderImpl::ActionStartLoad dlc\\dlc_CardsDLL\\dlc\\CardsDLLzf","SetEvent(FsmEvents eventid) 2","PluginSingleLoaderImpl::ActionCreating dlc\\dlc_CardsDLL\\dlc\\CardsDLLzf","ActionCreate dlc\\dlc_CardsDLL\\dlc\\CardsDLLzf:FEThread","SignalEventChangeOnChild","ActionCreate dlc\\dlc_CardsDLL\\dlc\\CardsDLLzf:MsgListener","SignalEventChangeOnChild","PluginSingleLoaderImpl::ActionCreating dlc\\dlc_CardsDLL\\dlc\\CardsDLLzf","SetEvent(FsmEvents eventid) 3","SetEvent(FsmEvents eventid) 4","PluginSingleLoaderImpl::ActionLoadCompete dlc\\dlc_CardsDLL\\dlc\\CardsDLLzf","SignalEventChangeOnChild","SignalEventChangeOnChild"]}
+{"kind":"exception-handler-installed"}
+{"kind":"exception-handler-installed"}
+{"kind":"exception-handler-installed"}
+{"kind":"exception-handler-installed"}
+{"kind":"exception-handler-installed"}
+{"kind":"exception-handler-installed"}
+{"kind":"exception-handler-installed"}
+{"kind":"exception-handler-installed"}
+{"kind":"exception-handler-installed"}
+{"kind":"exception-handler-installed"}
